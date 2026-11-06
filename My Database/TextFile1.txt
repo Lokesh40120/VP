@@ -1,0 +1,5 @@
+﻿Right-click your project.
+Select Manage NuGet Packages.
+Search for:
+MySql.Data
+Install the package published by Oracle.

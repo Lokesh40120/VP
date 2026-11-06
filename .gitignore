@@ -1,0 +1,50 @@
+# Visual Studio user-specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+[Bb]in/
+[Oo]bj/
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+[Aa]ny[Cc][Pp][Uu]/
+
+# NuGet packages
+packages/
+*.nupkg
+
+# Visual Studio cache
+*.cache
+*.log
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.old
+
+# Test results
+[Tt]est[Rr]esult*/
+*.trx
+
+# Publish output
+publish/
+
+# Web publish files
+*.pubxml.user
+
+# Database files (optional)
+*.mdf
+*.ldf
+
+# OS files
+Thumbs.db
+.DS_Store
+
+# Archives
+*.zip
